@@ -1,0 +1,7 @@
+USERNAME AND PASSWORDS:
+
+SUPERADMIN
+username: wimpy
+password: admin
+
+CODE: @bscoe42
